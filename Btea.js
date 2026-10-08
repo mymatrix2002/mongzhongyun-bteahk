@@ -42,7 +42,7 @@ var updateLog = {
 var version={
     author:"九石",
  ver:"5.4",
-requireId:"https://github.moeyy.xyz/https://github.com/mongzhongyun/hiker_jiushi/blob/main/Btea.js",
+requireId:"https://gh-proxy.com/https://github.com/mymatrix2002/mongzhongyun-bteahk/blob/main/Btea.js",
 // requireIdo:"https://oooooooooooooooooooooo.ooo/ooooοооoοᴏοoοᴏοoοᴏooοᴏoᴏoᴏооoоᴏᴏoоᴏᴏοоοᴏοооοοᴏοoοоoᴏοоᴏᴏοоοoοоοοoоᴏоοоᴏоοоοοοᴏοooоᴏᴏοоοoοоoοοоᴏоoᴏоοoᴏoοοоοoοоᴏᴏοᴏοοoᴏοοoоᴏᴏοооoοоoοοооοοооᴏοоοοοᴏoоoоᴏᴏoоᴏοoоᴏᴏοᴏoоοоoοοᴏοᴏoоᴏᴏοоᴏοοоoοοᴏoᴏοᴏοoοоοοοᴏoоoоᴏᴏοoᴏοοᴏоοοooоοᴏοoοоοοοоoοoоᴏоοоооοᴏoᴏ",
  requirelId:"hiker://files/rules/91/Btea.js",
  update:'2024/11/20 08:10',
