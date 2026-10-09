@@ -1,1 +1,5 @@
-evalPrivateJS("Ekzz5q6B4nedQOfr3zXD/k/G6E/r2ekvPaV69vC+88jbkI6fHlZndwpmv9YAWBxZDiQgWiyUiKX1ChMGKUYMls6QxeI6TOfl4A86InipCh8GAnMerXT8xqgn5/1DvKtn57Xi7VmIF6mZYz1PnvOjm/Hqd2MyPStrzw7HgayPc57vAz5q6cnsvvsGEg97UCd9WppghqXGaYO6U+movhjJzWrRg94vqwMYRuaG9+71rSGIYvWdpSw2nIVg/U6eACs5")
+try {
+    require('https://gh-proxy.com/https://github.com/mymatrix2002/mongzhongyun-bteahk/blob/main/Btea.js');pre.处理();
+}catch (e) {
+log('pre处理加载失败:'+e.message);
+}
