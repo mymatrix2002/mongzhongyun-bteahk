@@ -1018,11 +1018,11 @@ var 一级 = {
     //var 设置 = settingIcon !== 'off' ? '设置' : '';
     //var 收藏 = settingIcon !== 'off' ? '收藏' : '';
     var SYIcon=$.getImage("http://123.56.105.145/tubiao/more/47.png");
-    var PKIcon=$.getImage("https://github.moeyy.xyz/https://github.com/mongzhongyun/hiker_jiushi/blob/main/pk.png");
+    var PKIcon=$.getImage("https://gh-proxy.com/https://github.com/mongzhongyun/hiker_jiushi/blob/main/pk.png");
     var RBIcon=$.getImage("http://123.56.105.145/tubiao/more/74.png");
     var GXIcon=$.getImage("http://123.56.105.145/tubiao/more/157.png");
     var SSIcon=$.getImage("http://123.56.105.145/tubiao/more/168.png");
-    var SCIcon=$.getImage("https://github.moeyy.xyz/https://github.com/mongzhongyun/hiker_jiushi/blob/main/sc.jpg");
+    var SCIcon=$.getImage("https://gh-proxy.com/https://github.com/mongzhongyun/hiker_jiushi/blob/main/sc.jpg");
     var SZIcon=$.getImage("http://123.56.105.145/tubiao/more/292.png");
     var LSIcon=$.getImage("http://123.56.105.145/tubiao/more/200.png");
     var ZJIcon=$.getImage("http://123.56.105.145/tubiao/more/326.png");
@@ -2089,11 +2089,11 @@ addListener('onClose', $.toString(()=>{
     let mnIcons4 = getItem('menuIcons4',getItem('gxid')=="on"?"更新":"收藏");    
     let mnIcons5 = getItem('menuIcons5',"设置");         
     var SYIcon=$.getImage("http://123.56.105.145/tubiao/more/47.png");
-    var PKIcon=$.getImage("https://github.moeyy.xyz/https://github.com/mongzhongyun/hiker_jiushi/blob/main/pk.png");
+    var PKIcon=$.getImage("https://gh-proxy.com/https://github.com/mongzhongyun/hiker_jiushi/blob/main/pk.png");
     var RBIcon=$.getImage("http://123.56.105.145/tubiao/more/74.png");
     var GXIcon=$.getImage("http://123.56.105.145/tubiao/more/157.png");
     var SSIcon=$.getImage("http://123.56.105.145/tubiao/more/168.png");
-    var SCIcon=$.getImage("https://github.moeyy.xyz/https://github.com/mongzhongyun/hiker_jiushi/blob/main/sc.jpg");
+    var SCIcon=$.getImage("https://gh-proxy.com/https://github.com/mongzhongyun/hiker_jiushi/blob/main/sc.jpg");
     var SZIcon=$.getImage("http://123.56.105.145/tubiao/more/292.png");
     var LSIcon=$.getImage("http://123.56.105.145/tubiao/more/200.png");
     var ZJIcon=$.getImage("http://123.56.105.145/tubiao/more/326.png");
