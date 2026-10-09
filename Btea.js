@@ -1,7 +1,6 @@
 var updateLog = {
-    "newVersion":parseFloat(5.4.1.toFixed(1)),
+    "newVersion":parseFloat(5.4.toFixed(1)),
     "newVersionlog":{
-"5.4.1":"2026年10月9日 修复主页“片库”和“收藏”图标不显示，
 "5.4":"2024年11月20日 快搜DIY直接跳转风影和云盘君.简，修复追剧周表的bug",         
 "5.3":"2024年11月17日 移库修改远程依赖",         
 "5.2":"2024年7月12日 优化首页和片库动态刷新的bug",           
@@ -42,7 +41,7 @@ var updateLog = {
 };    
 var version={
     author:"九石",
- ver:"5.4.1",
+ ver:"5.4",
 requireId:"https://gh-proxy.com/https://github.com/mymatrix2002/mongzhongyun-bteahk/blob/main/Btea.js",
 // requireIdo:"https://oooooooooooooooooooooo.ooo/ooooοооoοᴏοoοᴏοoοᴏooοᴏoᴏoᴏооoоᴏᴏoоᴏᴏοоοᴏοооοοᴏοoοоoᴏοоᴏᴏοоοoοоοοoоᴏоοоᴏоοоοοοᴏοooоᴏᴏοоοoοоoοοоᴏоoᴏоοoᴏoοοоοoοоᴏᴏοᴏοοoᴏοοoоᴏᴏοооoοоoοοооοοооᴏοоοοοᴏoоoоᴏᴏoоᴏοoоᴏᴏοᴏoоοоoοοᴏοᴏoоᴏᴏοоᴏοοоoοοᴏoᴏοᴏοoοоοοοᴏoоoоᴏᴏοoᴏοοᴏоοοooоοᴏοoοоοοοоoοoоᴏоοоооοᴏoᴏ",
  requirelId:"hiker://files/rules/91/Btea.js",
